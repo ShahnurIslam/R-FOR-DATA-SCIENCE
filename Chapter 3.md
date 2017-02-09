@@ -30,5 +30,6 @@ ggplot(data  = mpg) +
 ggplot(data  = mpg) +
   geom_point(mapping = aes(x=class,y=drv))
   ```
-  This plot doesn't help us tell the performance of the cars, it simply categorises the class of cars into drive.
+This plot doesn't help us as it doesn't give any useful information.
+ It simply categorises the class of cars into drive.
   
